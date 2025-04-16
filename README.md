@@ -2,8 +2,6 @@
 
 A modern assistive tool that translates **eye blinks** into **Morse code**, inspired by history and built for accessibility and innovation.
 
-![Morse Vision Banner](https://via.placeholder.com/1200x300?text=Morse+Vision) <!-- You can update this with a real banner later -->
-
 ---
 
 ## 🚀 Overview
