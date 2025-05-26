@@ -46,7 +46,6 @@ A modern assistive tool that translates **eye blinks** into **Morse code**, insp
 
 ---
 
-
 ## ✅ Project Status
 
 - [x] Blink Detection
@@ -54,6 +53,18 @@ A modern assistive tool that translates **eye blinks** into **Morse code**, insp
 - [x] Morse Code Mapping
 - [x] Text Output
 
+---
+
+## 📥 Download Required Model File
+
+To run blink detection, you'll need the **dlib facial landmark predictor file**:
+
+🔗 [Download `shape_predictor_68_face_landmarks.dat`](https://github.com/davisking/dlib-models/raw/master/shape_predictor_68_face_landmarks.dat.bz2)
+
+### Steps:
+1. Download the file from the link above.
+2. Extract the `.bz2` file to get `shape_predictor_68_face_landmarks.dat`.
+3. Place the `.dat` file in the root folder of the project or update the path in your code accordingly.
 
 ---
 
